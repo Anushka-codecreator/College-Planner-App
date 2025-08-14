@@ -1,4 +1,4 @@
-# College-Planner-App
+# College-Planner-Website
 An efficient planner for college students
 # UniSync
 A desktop application built with Python (Tkinter) to help students manage their academic life in one place, including **calendar**, **events**, and **to-do lists** using a beautiful, interactive UI.
