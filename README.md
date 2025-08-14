@@ -38,10 +38,10 @@ A desktop application built with Python (Tkinter) to help students manage their 
 
 ##  Tech Stack
 1) **Python 3.x**
-2) **Tkinter**  for GUI Framework
-3) **Pillow (PIL)** for Image handling
-4) **Calendar** for Python’s built-in module for calendar rendering
-5) **Webbrowser** for To open event links directly
+2) **Tkinter**  for GUI framework
+3) **Pillow (PIL)** for image handling
+4) **Calendar** for python’s built-in module for calendar rendering
+5) **Webbrowser** to open event links directly
 
 ---
 
